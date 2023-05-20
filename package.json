@@ -1,0 +1,23 @@
+{
+  "name": "image-min",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanmBY/gulp-imagemin.git"
+  },
+  "author": "Hassan-Baig Mirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HassanmBY/gulp-imagemin/issues"
+  },
+  "homepage": "https://github.com/HassanmBY/gulp-imagemin#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
